@@ -1,0 +1,6 @@
+/* The styling for the search bar. */
+.text-search {
+  width: 30%;
+  float: right;
+  margin-bottom: 5px;
+}
